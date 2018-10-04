@@ -1,0 +1,16 @@
+{
+  "name": "basic-calculator-vuejs",
+  "version": "1.0.0",
+  "home": "https://namthit98.github.io/basic-calculator-vuejs",
+  "description": "* There are some bugs but basic features are done !",
+  "main": "app.js",
+  "scripts": {
+    "build": "gh-pages -d build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^2.0.0"
+  }
+}
