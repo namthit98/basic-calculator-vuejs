@@ -5,7 +5,7 @@
   "description": "* There are some bugs but basic features are done !",
   "main": "app.js",
   "scripts": {
-    "build": "gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "keywords": [],
   "author": "",
